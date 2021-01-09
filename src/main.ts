@@ -11,6 +11,7 @@ import "../styles/awesome-bootstrap-checkbox.css";
 export function configure(aurelia: Aurelia): void {
   aurelia.use
     .standardConfiguration()
+    .plugin('aurelia-dialog')
     .feature(PLATFORM.moduleName('resources/index'));
 
   aurelia.use.developmentLogging(environment.debug ? 'debug' : 'warn');
