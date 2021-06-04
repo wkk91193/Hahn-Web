@@ -1,6 +1,6 @@
 # `Hahn-Web`
 
-This the frontend for registering Applicant registering process for https://github.com/wkk91193/Hahn 
+This the frontend for registering applicant registering process for https://github.com/wkk91193/Hahn built on Aurelia
 
 
 ## Run dev app
